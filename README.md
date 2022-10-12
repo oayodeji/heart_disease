@@ -3,4 +3,4 @@ This repository shows how to carry out classification problem by using heart [da
 
 ### Demo
 
-The accompanying demo is hosted on hugggingface [demo](https://hf.space/embed/wvle/Heart_Disease_Prediction/+/) 
+This link is an accompanying demo hosted on hugggingface [demo](https://hf.space/embed/wvle/Heart_Disease_Prediction/+/) 
